@@ -1,2 +1,2 @@
 # MTstomach.github.io
-dads page
+A website I am trying to create for my dad.
