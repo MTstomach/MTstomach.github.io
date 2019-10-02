@@ -1,0 +1,62 @@
+body{
+    /* background: #f3b9d1; */
+    background-image: url("https://images.unsplash.com/photo-1533035350251-aa8b8e208d95?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+.navbar-brand{
+    margin-right: 25px;
+}
+
+
+
+.row {
+    margin: 0 auto;
+    
+}
+
+.col-lg-6 {
+    background: #cfb1be;
+    border: rgb(177, 50, 149);
+    border-radius: 5px;
+    height: 250px;
+    /* margin: 20px 0; */
+    
+    text-align: center;
+    padding-top: 20px;
+}
+
+.col-12 {
+    margin-bottom: 30px;
+    
+}
+
+#section2 #tools-img, #section1 #wood-polish{
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-image: url("https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80");
+    
+    /* background-image: url("https://images.unsplash.com/photo-1499744349893-0c6de53516e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80"); */
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    font-size: 1.5rem;
+    font-weight: 500;
+    /* color:white; */
+}
+
+#tools-img{
+    background-image: url("https://images.unsplash.com/reserve/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=616&q=80");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    color:white;
+}
+
+#wood-polish {
+    background-image: url("https://images.unsplash.com/photo-1561297331-a9c00b9c2c44?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
